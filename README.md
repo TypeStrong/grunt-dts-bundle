@@ -2,7 +2,7 @@
 
 > Grunt [plugin](http://gruntjs.com/) to export TypeScript .d.ts files as an external module definition with [dts-bundle](https://github.com/grunt-ts/dts-bundle)
 
-[![Build Status](https://secure.travis-ci.org/grunt-ts/grunt-dts-bundle.png?branch=master)](http://travis-ci.org/grunt-ts/grunt-dts-bundle) [![Dependency Status](https://gemnasium.com/grunt-ts/grunt-dts-bundle.png)](https://gemnasium.com/grunt-ts/grunt-dts-bundle) [![NPM version](https://badge.fury.io/js/grunt-dts-bundle.png)](http://badge.fury.io/js/grunt-dts-bundle)
+[![Build Status](https://secure.travis-ci.org/grunt-ts/grunt-dts-bundle.svg?branch=master)](http://travis-ci.org/grunt-ts/grunt-dts-bundle) [![NPM version](https://badge.fury.io/js/grunt-dts-bundle.svg)](http://badge.fury.io/js/grunt-dts-bundle) [![Dependency Status](https://david-dm.org/grunt-ts/grunt-dts-bundle.svg)](https://david-dm.org/grunt-ts/grunt-dts-bundle) [![devDependency Status](https://david-dm.org/grunt-ts/grunt-dts-bundle/dev-status.svg)](https://david-dm.org/grunt-ts/grunt-dts-bundle#info=devDependencies)
 
 Wraps [dts-bundle](https://github.com/grunt-ts/dts-bundle)
 
