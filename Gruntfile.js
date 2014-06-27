@@ -25,7 +25,7 @@ module.exports = function (grunt) {
 			'lib/barbazz.js',
 			'Foo.js',
 			'index.js',
-			'index.d.ts'
+			'test-project.d.ts'
 		];
 		var expectedNot = [
 			'lib/barbazz.d.ts',
@@ -82,6 +82,7 @@ module.exports = function (grunt) {
 			test: {
 				options: {
 					name: 'test-project',
+					removeSource: true,
 					main: './test/tmp/index.d.ts'
 				}
 			}
