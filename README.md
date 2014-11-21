@@ -1,10 +1,10 @@
 # grunt-dts-bundle
 
-> Grunt [plugin](http://gruntjs.com/) to export TypeScript .d.ts files as an external module definition with [dts-bundle](https://github.com/grunt-ts/dts-bundle)
+> Grunt [plugin](http://gruntjs.com/) to export TypeScript .d.ts files as an external module definition with [dts-bundle](https://github.com/TypeStrong/dts-bundle)
 
-[![Build Status](https://secure.travis-ci.org/grunt-ts/grunt-dts-bundle.svg?branch=master)](http://travis-ci.org/grunt-ts/grunt-dts-bundle) [![NPM version](https://badge.fury.io/js/grunt-dts-bundle.svg)](http://badge.fury.io/js/grunt-dts-bundle) [![Dependency Status](https://david-dm.org/grunt-ts/grunt-dts-bundle.svg)](https://david-dm.org/grunt-ts/grunt-dts-bundle) [![devDependency Status](https://david-dm.org/grunt-ts/grunt-dts-bundle/dev-status.svg)](https://david-dm.org/grunt-ts/grunt-dts-bundle#info=devDependencies)
+[![Build Status](https://secure.travis-ci.org/TypeStrong/grunt-dts-bundle.svg?branch=master)](http://travis-ci.org/TypeStrong/grunt-dts-bundle) [![NPM version](https://badge.fury.io/js/grunt-dts-bundle.svg)](http://badge.fury.io/js/grunt-dts-bundle) [![Dependency Status](https://david-dm.org/TypeStrong/grunt-dts-bundle.svg)](https://david-dm.org/TypeStrong/grunt-dts-bundle) [![devDependency Status](https://david-dm.org/TypeStrong/grunt-dts-bundle/dev-status.svg)](https://david-dm.org/TypeStrong/grunt-dts-bundle#info=devDependencies)
 
-Simple wrapper for [dts-bundle](https://github.com/grunt-ts/dts-bundle)
+Simple wrapper for [dts-bundle](https://github.com/TypeStrong/dts-bundle)
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ grunt.loadNpmTasks('grunt-dts-bundle');
 
 ### Default Options
 
-All options are passed directly to [dts-bundle](https://github.com/grunt-ts/dts-bundle)
+All options are passed directly to [dts-bundle](https://github.com/TypeStrong/dts-bundle)
 
 ```js
 grunt.initConfig({
